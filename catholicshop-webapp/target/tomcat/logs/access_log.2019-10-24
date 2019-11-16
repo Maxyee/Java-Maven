@@ -1,0 +1,16 @@
+127.0.0.1 - - [24/Oct/2019:00:27:37 +1100] "POST /jersey-webapp/webapi/employees/create HTTP/1.1" 404 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:00:27:37 +1100] "GET /catholicshop-webapp/maintain.jsp HTTP/1.1" 200 3268 http-bio-8080-exec-11 4433
+127.0.0.1 - - [24/Oct/2019:01:10:33 +1100] "POST /jersey-webapp/webapi/employees/create HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:10:33 +1100] "GET /catholicshop-webapp/maintain.jsp HTTP/1.1" 200 4364 http-bio-8080-exec-3 2183
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:10:33 +1100] "GET /catholicshop-webapp/css/maintain.css HTTP/1.1" 304 - http-bio-8080-exec-3 15
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:10:33 +1100] "GET /catholicshop-webapp/css/style.css HTTP/1.1" 304 - http-bio-8080-exec-3 44
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:11:29 +1100] "POST /catholicshop-webapp/maintainhtml.py HTTP/1.1" 404 1021 http-bio-8080-exec-3 316
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:02 +1100] "GET /catholicshop-webapp/maintainhtml.py HTTP/1.1" 404 1021 http-bio-8080-exec-10 70
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:15 +1100] "GET /catholicshop-webapp HTTP/1.1" 302 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:15 +1100] "GET /catholicshop-webapp/ HTTP/1.1" 200 1812 http-bio-8080-exec-10 114
+127.0.0.1 - - [24/Oct/2019:01:21:22 +1100] "GET /catholicshop-webapp/webapi/books/ HTTP/1.1" 200 636 http-bio-8080-exec-8 1089
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:23 +1100] "GET /catholicshop-webapp/site.jsp HTTP/1.1" 200 16767 http-bio-8080-exec-10 2597
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:27 +1100] "GET /catholicshop-webapp/search.jsp HTTP/1.1" 200 2242 http-bio-8080-exec-10 115
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:28 +1100] "GET /catholicshop-webapp/result.jsp HTTP/1.1" 200 4672 http-bio-8080-exec-10 67
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:01:21:32 +1100] "GET /catholicshop-webapp/maintain.jsp HTTP/1.1" 200 4674 http-bio-8080-exec-12 1068
+0:0:0:0:0:0:0:1 - - [24/Oct/2019:10:01:57 +0600] "GET /catholicshop-webapp/webapi/books/ HTTP/1.1" 500 26572 http-bio-8080-exec-2 3563

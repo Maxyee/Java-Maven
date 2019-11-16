@@ -1,0 +1,33 @@
+.mainContent{
+    background-color: #ECECEB;
+}
+.wrapContent{
+    background-color: #ECECEB;
+}
+
+
+table.center{
+    margin-left:auto; 
+    margin-right:auto;
+}
+td{
+    padding: 10px;
+}
+.spacer{
+    margin:20px;
+}
+
+.maintainHeader p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.maintainHeader{
+    /* border:1px solid black; */
+    
+}
+
+.dataAddSection{
+    /* border:2px solid green; */
+
+}

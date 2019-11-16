@@ -1,0 +1,55 @@
+/* .mainContent{
+    background-color: #ECECEB;
+}
+.wrapContent{
+    background-color: #ECECEB;
+} */
+
+.fullContainer{
+    background-color: #ECECEB;
+}
+
+
+.spacer{
+    margin:20px;
+}
+
+
+.searchpageHeader{
+    /* border:1px splod black; */
+}
+
+.searchpageHeader p {
+    font-weight: bold;
+    text-align: center;
+}
+
+.searchBox {
+    /* border: 2px solid green; */
+}
+
+#searchBook{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    /* width: 100%; */
+}
+
+#searchBook tr{
+    margin-top: 10px;
+}
+
+
+#searchBook tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#searchBook tr:hover {background-color: #ddd;}
+
+td{
+    padding: 20px;
+}
+
+table.center{
+    margin-left:auto; 
+    margin-right:auto;
+}

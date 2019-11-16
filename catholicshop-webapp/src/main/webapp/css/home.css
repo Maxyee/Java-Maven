@@ -1,0 +1,40 @@
+/* .mainContent{
+    background-color: #ECECEB;
+}
+.wrapContent{
+    background-color: #ECECEB;
+} */
+.fullContainer{
+    background-color: #ECECEB;
+}
+
+.spacer{
+    margin:20px;
+}
+
+
+
+.contentHeader{
+    /* border: 1px solid black; */
+    /* height: 70px;
+    width: 790px; */
+}
+
+.contentHeader h2{
+    text-align: center;
+}
+
+.contentDescription{
+    /* border:1px solid black; */
+    text-align: center;
+}
+
+.companyLogo{
+    /* border:1px solid black; */
+    text-align: center;
+}
+
+.companyDescription{
+    /* border: 1px solid black; */
+    text-align: center;
+}
