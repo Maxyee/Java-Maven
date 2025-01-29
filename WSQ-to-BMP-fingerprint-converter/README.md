@@ -54,4 +54,5 @@ public class WSQ_BMP {
 }
 ```
 
-5. For more information about the JNBIS libaray Visit: https://search.maven.org/artifact/com.github.mhshams/jnbis/2.1.2/jar?eh=
+5. For more information about the JNBIS library Visit: https://search.maven.org/artifact/com.github.mhshams/jnbis/2.1.2/jar?eh=
+6.  We can visit this site as well for maven specification: https://central.sonatype.com/artifact/com.github.mhshams/jnbis
