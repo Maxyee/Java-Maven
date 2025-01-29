@@ -8,6 +8,6 @@ Link : https://github.com/mhshams/jnbis/tree/main
 
 3. we can do this in IntelliJ like this snapshot1 :
 
-![alt text](https://github.com/Maxyee/Java-Maven/tree/master/WSQ-to-BMP-fingerprint-converter/snapshot/snapshot1.png)
+![alt text](https://github.com/Maxyee/Java-Maven/blob/master/WSQ-to-BMP-fingerprint-converter/snapshot/snapshot1.png)
 
 4. Finally run the code from the WSQ_BMP class file. It will create the BMP file.
