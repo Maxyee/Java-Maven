@@ -53,3 +53,5 @@ public class WSQ_BMP {
     }
 }
 ```
+
+5. For more information about the JNBIS libaray Visit: https://search.maven.org/artifact/com.github.mhshams/jnbis/2.1.2/jar?eh=
